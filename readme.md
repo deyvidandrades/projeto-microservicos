@@ -1,4 +1,4 @@
-![aplicacao_microservicos](https://github.com/deyvidandrades/projeto-microservicoes/blob/master/src/staticfavicon.png)  
+![aplicacao_microservicos](https://raw.githubusercontent.com/deyvidandrades/projeto-microservicos/master/src/static/favicon.png)  
   
 # Projeto de Microserviços  
   
